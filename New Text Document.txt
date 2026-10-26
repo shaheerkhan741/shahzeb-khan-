@@ -1,0 +1,39 @@
+Role: Professional and advanced web developer.
+Goal: Build a luxury, premium e-commerce web application for a watch brand named "SHAHZEB WATCHES".
+
+--- BRAND IDENTITY & LOGO ---
+- Brand Name: SHAHZEB WATCHES
+- Logo Style: A gold crown on top, with "SHAHZEB" written directly below in Playfair Display Bold (black text).
+- Owner Profile: Place the attached business owner picture (Shaheer Khan, age 21) prominently at the top of the webpage alongside the founder profile card.
+
+--- CATALOG & INVENTORY ---
+- Total Catalog: Around 75 distinct luxury watches across categories.
+- Breakdown: 
+  1. Men's Section (Apple smartwatches, silver watches, luxury leather watches)
+  2. Women's Section (Elegant bracelets, luxury gold/silver pieces)
+  3. Wall Watches Section (Home & Office statement pieces)
+- Layout Grid: Display products in a responsive grid format (optimized for 4 columns wide). Every product must feature unique high-resolution luxury imagery (no repeated pictures) with the specific watch name displayed clearly.
+- "All" Section Tab: Displays a curated mix of 50 top items (30 men, 20 women, 10 wall clocks).
+
+--- SECTION-SPECIFIC COLOR PALETTES ---
+1. Men's Section: Background #000000 (Black), Text #FFFFFF (White), Accent/Buttons #D4AF37 (Gold).
+2. Women's Section: Background #FFF9F5 (Off-White), Text #333333 (Dark Grey), Accent/Buttons #B76E79 (Rose Gold).
+3. Wall Watches Section: Background #F5F5DC (Light Beige), Text #3C2F2F (Dark Brown), Accent/Buttons #0A1931 (Navy Blue).
+4. Header & General Theme: Black background with Gold text for a premium Rolex-style luxury aesthetic.
+
+--- TYPOGRAPHY ---
+- Headings & Logo: Playfair Display
+- Body Text: Poppins
+
+--- INTERACTIVE FEATURES ---
+1. Product Detail Modal: When clicking a watch image, open an overlay showing:
+   - Main preview with 3 angle views (Front, Side, Back) via clickable thumbnails.
+   - Color options swatch where the watch updates across 3 distinct color finishes.
+   - Past 5 months sales trend visual CSS bar chart.
+   - Import origin badge (e.g., "MADE IN GERMANY", "MADE IN ITALY").
+2. Checkout Flow: A bold "Buy Now" button that opens an interactive checkout modal allowing users to select Color, Size, Quantity, enter their Delivery Address, and click "Pay Now".
+
+--- ABOUT US SECTION ---
+Include the founder's message translated professionally in both English and Urdu:
+"میرا نام SHAHZEB KHAN ہے، میری عمر 21 سال ہے۔ میں ایک نوجوان اور ایماندار بزنس مین ہوں۔ 
+میں نے SHAHZEB WATCHES برانڈ اس سوچ کے ساتھ شروع کیا کہ پاکستان کے لوگوں کو اچھی، پریمیم اور سستی گھڑیاں مل سکیں۔ ہمارا مقصد صرف گھڑی بیچنا نہیں، بلکہ آپ کا اعتماد جیتنا ہے۔ ہم ہر گھڑی کو ایمانداری اور معیار کے ساتھ منتخب کرتے ہیں، تاکہ آپ کو بہترین چیز ملے۔"
